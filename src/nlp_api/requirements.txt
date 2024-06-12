@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+pytest
+pandas
+nltk
+spacy
+scikit-learn
+aio_pika
+openai
+pika
+sumy
+scitkit-learn

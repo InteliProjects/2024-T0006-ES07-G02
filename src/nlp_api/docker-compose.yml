@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  api_nlp:
+    container_name: "api_nlp"
+    build: .
+    ports:
+      - "3002:8000"
+    volumes:
+      - ./:/app/
+    restart: always
+    networks:
+      - my_network
+networks:
+    my_network:
