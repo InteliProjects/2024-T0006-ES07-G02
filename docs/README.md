@@ -1,9 +1,3 @@
-# Artefatos
-
-Coloque aqui a localização dos artefatos entregues em cada sprint (o link para o artefato), ou então preencha diretamente neste markdown.
-
-Veja as instruções e maiores detalhes sobre os artefatos na Adalove.
-
 ## Entendimento de Negócios
 
 ### Analise do parceiro de projeto
