@@ -37,7 +37,11 @@
 
 ## 📜 Descrição
 
-Adicionar descrição do projeto conforme o TAPI.
+Para atender à necessidade da Sambatech de aumentar o engajamento dos usuários na plataforma de vídeo, desenvolvemos uma plataforma de analytics avançada com foco na análise de métricas de texto utilizando técnicas de Processamento de Linguagem Natural (NLP). A Sambatech queria identificar quais tipos de vídeos estavam gerando maior engajamento e quais tendências emergentes poderiam orientar os criadores de conteúdo. A plataforma que desenvolvemos fornece insights valiosos aos criadores de conteúdo, permitindo que eles compreendam quais vídeos estão ressoando com o público e quais tendências estão emergindo.
+
+A plataforma de analytics oferece funcionalidades avançadas de análise de métricas de texto, utilizando algoritmos de NLP para analisar comentários, descrições e títulos de vídeos, identificando padrões e sentimentos dos usuários. Além disso, a plataforma monitora e destaca tendências emergentes, ajudando os criadores de conteúdo a se manterem atualizados e a criarem vídeos alinhados com os interesses atuais dos usuários. Fornecemos relatórios detalhados que mostram o desempenho dos vídeos em termos de visualizações, curtidas, compartilhamentos e comentários, permitindo uma análise mais aprofundada do que está funcionando na plataforma.
+
+Os criadores de conteúdo têm acesso a um painel intuitivo e personalizável, onde podem visualizar os dados mais relevantes para suas necessidades específicas. Com base na análise dos dados, a plataforma oferece recomendações acionáveis para melhorar o engajamento dos vídeos, como sugestões de tópicos populares e estratégias de conteúdo.
 
 ## 📁 Estrutura de pastas
 
