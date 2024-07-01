@@ -8,15 +8,19 @@
 
 # Automação com Reconhecimento de Voz
 
-## Grupo X
+## Grupo Sorriso Maroto
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/">Integrante 1</a>
-- <a href="https://www.linkedin.com/in/">Integrante 2</a>
-- <a href="https://www.linkedin.com/in/">Integrante 3</a>
-- <a href="https://www.linkedin.com/in/">Integrante 4</a>
+- <a href="https://www.linkedin.com/in/jv-marcelino/">José Vitor Marcelino</a>
+- <a href="https://www.linkedin.com/in/rafael-techio/">Rafael Techio</a>
+- <a href="https://www.linkedin.com/in/lfcovas97/">Luiz Fernando Covas</a>
+- <a href="https://www.linkedin.com/in/eduarda-gonzaga-009794219/">Eduarda Gonzaga</a>
+- <a href="https://www.linkedin.com/in/">Vitor Rodrigues</a>
+- <a href="https://www.linkedin.com/in/erikfreundt/">Erik Bonn</a>
 
-(...)
+## Projeto Sambanalytics
+
+
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
@@ -63,8 +67,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Instalação
 
-Acrescentar as informações necessárias para instalação do projeto, assim como as versões utilizadas (uso do projeto).
-
+- Instale o Docker Desktop
+- Navegue até a pasta "src"
+- Rode o comando "docker-compose up --build -d"
 
 ## 🗃 Histórico de lançamentos
 
@@ -75,6 +80,4 @@ Acrescentar as informações necessárias para instalação do projeto, assim co
 
 ## 📋 Licença/License
 
-Atenção: antes da entrega final, esta licença deve ser atualizada com os nomes dos integrantes do grupo.
-
-Licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="http://inteli.edu.br">Sambanalytics</a> by <span property="cc:attributionName">Inteli - José Vitor Marcelino, Rafael Techio, Luiz Covas, Vitor Rodrigues, Eduarda Gonzaga, Erik Bonn</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
